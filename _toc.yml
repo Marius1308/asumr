@@ -5,8 +5,31 @@ format: jb-book
 root: intro
 parts: 
   - caption: Vorlesung
-    chapters: 
-      - file: vorlesung/pid-controller
+    chapters:
+      - file: vorlesung/01_Intro.md
+        sections:
+        - file: vorlesung/01_Intro/01-intro-deck.md
+      - file: vorlesung/02_Locomotion.md
+        sections:
+        - file: vorlesung/02_Locomotion/02-actuation-deck.md
+        - file: vorlesung/02_Locomotion/02-actuation.md
+        - file: vorlesung/02_Locomotion/Coordination_Decentralization.md
+        - file: vorlesung/02_Locomotion/Embodiment_PassiveWalker.md
+        - file: vorlesung/02_Locomotion/jupyter.md
+        - file: vorlesung/02_Locomotion/oliver.md
+        - file: vorlesung/02_Locomotion/PositionEstimation.md
+      - file: vorlesung/03_ControlKinematic.md
+        sections:
+        - file: vorlesung/03_ControlKinematic/02-actuation.md
+        - file: vorlesung/03_ControlKinematic/03-kinematic-deck.md
+        - file: vorlesung/03_ControlKinematic/03-pid.md
+        - file: vorlesung/03_ControlKinematic/InternalModels.md
+        - file: vorlesung/03_ControlKinematic/jupyter-test-deck.md
+        - file: vorlesung/03_ControlKinematic/jupyter.md
+        - file: vorlesung/03_ControlKinematic/learning.md
+        - file: vorlesung/03_ControlKinematic/PositionEstimation.md
+        - file: vorlesung/03_ControlKinematic/rest3.md
+        - file: vorlesung/03_ControlKinematic/ROS-intro.md
   - caption: ROS 2
     chapters:
       - file: ros2/setup
