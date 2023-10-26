@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" viewBox="-25 0 450 151.46411" width="450" height="151.46411">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="24" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 11 6 4 2 2 2 2 2 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="975.0061" descent="-216.99524" font-weight="500">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue-Medium"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -2 3 4" markerWidth="3" markerHeight="4" color="#929292">
+      <g>
+        <path d="M .96 0 L 0 -.36 L 0 .36 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.19.4\n2023-02-06 14:18:47 +0000</metadata>
+  <g id="Canvas_1" fill="none" stroke="none" stroke-dasharray="none" stroke-opacity="1" fill-opacity="1">
+    <title>Canvas 1</title>
+    <g id="Canvas_1_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_45">
+        <rect x="-25" y="122" width="450" height="28.3465" fill="#929292"/>
+      </g>
+      <g id="Graphic_40">
+        <text transform="translate(5 105)" fill="#f18e2a">
+          <tspan font-family="Helvetica Neue" font-size="24" font-weight="400" fill="#f18e2a" x="0" y="23">Perceive</tspan>
+        </text>
+      </g>
+      <g id="Graphic_41">
+        <text transform="translate(155 5)" fill="#009a4c">
+          <tspan font-family="Helvetica Neue" font-size="24" font-weight="400" fill="#009a4c" x="5.3279984" y="23">Reason</tspan>
+        </text>
+      </g>
+      <g id="Graphic_42">
+        <text transform="translate(305 105)" fill="#2078b4">
+          <tspan font-family="Helvetica Neue" font-size="24" font-weight="400" fill="#2078b4" x="27.996" y="23">Act</tspan>
+        </text>
+      </g>
+      <g id="Graphic_44">
+        <text transform="translate(143.99596 127)" fill="white">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="white" x="10.616038" y="16">Environment</tspan>
+        </text>
+      </g>
+      <g id="Line_46">
+        <path d="M 50.996 100 L 50.996 20 L 140.0601 19.605742" marker-end="url(#FilledArrow_Marker)" stroke="#929292" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      </g>
+      <g id="Line_47">
+        <path d="M 251.992 19.335999 L 350 19.335999 L 350.7044 90.06049" marker-end="url(#FilledArrow_Marker)" stroke="#929292" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      </g>
+    </g>
+  </g>
+</svg>

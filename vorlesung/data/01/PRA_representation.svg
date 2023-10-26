@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" viewBox="-78 1100.3464 786 350" width="786" height="350">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="14" panose-1="2 0 8 3 0 0 0 9 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="975.0061" descent="-216.99524" font-weight="700">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue-Bold"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 11 6 4 2 2 2 2 2 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="975.0061" descent="-216.99524" font-weight="500">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue-Medium"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica Neue" font-size="24" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 8 3 0 0 0 9 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="975.0061" descent="-216.99524" font-weight="700">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue-Bold"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica Neue" font-size="12" panose-1="2 0 8 3 0 0 0 9 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="975.0061" descent="-216.99524" font-weight="700">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue-Bold"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 7 6" markerWidth="7" markerHeight="6" color="#f18e2a">
+      <g>
+        <path d="M 4.8 0 L 0 -1.8 L 0 1.8 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 7 6" markerWidth="7" markerHeight="6" color="#2078b4">
+      <g>
+        <path d="M 4.8 0 L 0 -1.8 L 0 1.8 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Helvetica Neue" font-size="14" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_3" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 7 6" markerWidth="7" markerHeight="6" color="#009a4c">
+      <g>
+        <path d="M 4.8 0 L 0 -1.8 L 0 1.8 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_4" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 7 6" markerWidth="7" markerHeight="6" color="#99df8a">
+      <g>
+        <path d="M 4.8 0 L 0 -1.8 L 0 1.8 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Helvetica Neue" font-size="18" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.19.4\n2023-03-25 10:16:18 +0000</metadata>
+  <g id="Canvas_1" fill="none" stroke="none" stroke-dasharray="none" stroke-opacity="1" fill-opacity="1">
+    <title>Canvas 1</title>
+    <g id="Canvas_1_Layer_1">
+      <title>Layer 1</title>
+      <g id="Group_132">
+        <g id="Graphic_102">
+          <path d="M 30 1184 L 114 1184 C 118.41828 1184 122 1187.5817 122 1192 L 122 1216 C 122 1220.4182 118.41828 1224 114 1224 L 30 1224 C 25.581722 1224 22 1220.4182 22 1216 L 22 1192 C 22 1187.5817 25.581722 1184 30 1184 Z" fill="#99df8a"/>
+          <text transform="translate(27 1195.2969)" fill="white">
+            <tspan font-family="Helvetica Neue" font-size="14" font-weight="700" fill="white" x="10.14" y="14">Local Map</tspan>
+          </text>
+        </g>
+        <g id="Graphic_103">
+          <rect x="-25" y="1422" width="681.965" height="28.3465" fill="#929292"/>
+        </g>
+        <g id="Graphic_104">
+          <text transform="translate(270.99996 1425.8823)" fill="white">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="white" x="10.616038" y="16">Environment</tspan>
+          </text>
+        </g>
+        <g id="Group_105">
+          <g id="Graphic_110">
+            <text transform="translate(-10 1415) rotate(-90)" fill="#f18e2a">
+              <tspan font-family="Helvetica Neue" font-size="24" font-weight="400" fill="#f18e2a" x="0" y="23">Perception</tspan>
+            </text>
+          </g>
+          <g id="Graphic_109">
+            <path d="M 22 1426 L 22 1297.9343 C 22 1297.0682 22.281137 1296.2255 22.801153 1295.5328 L 68.80115 1234.2608 C 70.127485 1232.4941 72.63486 1232.1372 74.40154 1233.4635 C 74.70362 1233.6903 74.97206 1233.9587 75.19885 1234.2608 L 121.19885 1295.5328 C 121.71886 1296.2255 122 1297.0682 122 1297.9343 L 122 1426 C 122 1428.209 120.20914 1430 118 1430 L 26 1430 C 23.79086 1430 22 1428.209 22 1426 Z" stroke="#f18e2a" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+          </g>
+          <g id="Graphic_108">
+            <rect x="32" y="1380" width="80" height="40" fill="#feaf6c"/>
+            <text transform="translate(37 1390.2679)" fill="white">
+              <tspan font-family="Helvetica Neue" font-size="16" font-weight="700" fill="white" x="4.48" y="16">Sensing</tspan>
+            </text>
+          </g>
+          <g id="Graphic_107">
+            <rect x="32" y="1300" width="80" height="40" fill="#f18e2a"/>
+            <text transform="translate(37 1304.6519)" fill="white">
+              <tspan font-family="Helvetica Neue" font-size="12" font-weight="700" fill="white" x="1.91" y="12">Information </tspan>
+              <tspan font-family="Helvetica Neue" font-size="12" font-weight="700" fill="white" x="5.672" y="27.348083">Extraction</tspan>
+            </text>
+          </g>
+          <g id="Line_106">
+            <line x1="72" y1="1380" x2="72" y2="1352.9" marker-end="url(#FilledArrow_Marker)" stroke="#f18e2a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Group_111">
+          <g id="Graphic_116">
+            <text transform="translate(623 1315) rotate(-90)" fill="#2078b4">
+              <tspan font-family="Helvetica Neue" font-size="24" font-weight="400" fill="#2078b4" x="0" y="23">Control</tspan>
+            </text>
+          </g>
+          <g id="Graphic_115">
+            <path d="M 522 1234 L 522 1362.0655 C 522 1362.9317 522.28114 1363.7744 522.80115 1364.467 L 568.80115 1425.739 C 570.1275 1427.5058 572.63486 1427.8627 574.40154 1426.5364 C 574.7036 1426.3096 574.97206 1426.0412 575.19885 1425.739 L 621.19885 1364.467 C 621.71886 1363.7744 622 1362.9317 622 1362.0655 L 622 1234 C 622 1231.7908 620.20914 1230 618 1230 L 526 1230 C 523.79086 1230 522 1231.7908 522 1234 Z" stroke="#2078b4" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+          </g>
+          <g id="Graphic_114">
+            <rect x="532" y="1240" width="80" height="40" fill="#2078b4"/>
+            <text transform="translate(537 1244.6519)" fill="white">
+              <tspan font-family="Helvetica Neue" font-size="12" font-weight="700" fill="white" x="21.884" y="12">Path </tspan>
+              <tspan font-family="Helvetica Neue" font-size="12" font-weight="700" fill="white" x="6.56" y="27.348083">Execution</tspan>
+            </text>
+          </g>
+          <g id="Graphic_113">
+            <rect x="532" y="1320" width="80" height="40" fill="#4192c5"/>
+            <text transform="translate(537 1330.2679)" fill="white">
+              <tspan font-family="Helvetica Neue" font-size="16" font-weight="700" fill="white" x="10.416" y="16">Acting</tspan>
+            </text>
+          </g>
+          <g id="Line_112">
+            <line x1="572" y1="1280" x2="572" y2="1307.1" marker-end="url(#FilledArrow_Marker_2)" stroke="#2078b4" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+        <g id="Graphic_117">
+          <text transform="translate(27 1146.216)" fill="#009a4c">
+            <tspan font-family="Helvetica Neue" font-size="14" font-weight="400" fill="#009a4c" x="5.835" y="13">Environment</tspan>
+            <tspan font-family="Helvetica Neue" font-size="14" font-weight="400" fill="#009a4c" x="25.421" y="29.392">Model</tspan>
+          </text>
+        </g>
+        <g id="Graphic_118">
+          <text transform="translate(140.488 1153.384)" fill="#009a4c">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="#009a4c" x="5968559e-19" y="15">Cognition: Internal simulation over model hierarchy</tspan>
+          </text>
+        </g>
+        <g id="Graphic_119">
+          <text transform="translate(400.36 1194.776)" fill="#99df8a">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="#99df8a" x="0" y="15">Path Planning</tspan>
+          </text>
+        </g>
+        <g id="Graphic_120">
+          <text transform="translate(-73 1197.196)" fill="#009a4c">
+            <tspan font-family="Helvetica Neue" font-size="14" font-weight="400" fill="#009a4c" x="7.274" y="13">Map Building</tspan>
+          </text>
+        </g>
+        <g id="Graphic_121">
+          <path d="M 286 1185.392 L 370 1185.392 C 374.4183 1185.392 378 1188.9737 378 1193.392 L 378 1217.392 C 378 1221.8102 374.4183 1225.392 370 1225.392 L 286 1225.392 C 281.58172 1225.392 278 1221.8102 278 1217.392 L 278 1193.392 C 278 1188.9737 281.58172 1185.392 286 1185.392 Z" fill="#99df8a"/>
+          <text transform="translate(283 1196.6889)" fill="white">
+            <tspan font-family="Helvetica Neue" font-size="14" font-weight="700" fill="white" x="6.913" y="14">Global Map</tspan>
+          </text>
+        </g>
+        <g id="Graphic_122">
+          <path d="M 280 1185.392 L 364 1185.392 C 368.41828 1185.392 372 1188.9737 372 1193.392 L 372 1217.392 C 372 1221.8102 368.41828 1225.392 364 1225.392 L 280 1225.392 C 275.58172 1225.392 272 1221.8102 272 1217.392 L 272 1193.392 C 272 1188.9737 275.58172 1185.392 280 1185.392 Z" fill="#99df8a"/>
+          <text transform="translate(277 1196.6889)" fill="white">
+            <tspan font-family="Helvetica Neue" font-size="14" font-weight="700" fill="white" x="6.913" y="14">Global Map</tspan>
+          </text>
+        </g>
+        <g id="Graphic_123">
+          <path d="M 530 1184 L 614 1184 C 618.4183 1184 622 1187.5817 622 1192 L 622 1216 C 622 1220.4182 618.4183 1224 614 1224 L 530 1224 C 525.5817 1224 522 1220.4182 522 1216 L 522 1192 C 522 1187.5817 525.5817 1184 530 1184 Z" fill="#99df8a"/>
+          <text transform="translate(527 1195.2969)" fill="white">
+            <tspan font-family="Helvetica Neue" font-size="14" font-weight="700" fill="white" x="29.698" y="14">Path</tspan>
+          </text>
+        </g>
+        <g id="Graphic_124">
+          <text transform="translate(154.344 1194.776)" fill="#99df8a">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="#99df8a" x="0" y="15">Localization</tspan>
+          </text>
+        </g>
+        <g id="Graphic_125">
+          <text transform="translate(556.296 1153.384)" fill="#009a4c">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="#009a4c" x="0" y="15">Plan</tspan>
+          </text>
+        </g>
+        <g id="Line_126">
+          <line x1="122" y1="1162.608" x2="135.488" y2="1162.608" stroke="#009a4c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Line_127">
+          <line x1="122" y1="1204" x2="149.344" y2="1204" stroke="#99df8a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Line_128">
+          <line x1="372" y1="1204.8482" x2="395.36" y2="1204.5942" stroke="#99df8a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Line_129">
+          <line x1="508.512" y1="1162.608" x2="538.396" y2="1162.608" marker-end="url(#FilledArrow_Marker_3)" stroke="#009a4c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Line_130">
+          <line x1="504.64" y1="1204" x2="509.1" y2="1204" marker-end="url(#FilledArrow_Marker_4)" stroke="#99df8a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Line_131">
+          <line x1="244.656" y1="1204.5307" x2="259.1008" y2="1204.6915" marker-end="url(#FilledArrow_Marker_4)" stroke="#99df8a" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+      </g>
+      <g id="Group_148">
+        <g id="Graphic_145">
+          <desc>From 0.0º
+To 360.0º</desc>
+          <path d="M 305.63213 1383.925 L 301.49466 1382.3878 L 297.47503 1380.565 L 293.59295 1378.4654 L 289.86748 1376.0993 L 286.3169 1373.4785 L 282.95868 1370.6157 L 279.80924 1367.525 L 276.8841 1364.2215 L 274.19755 1360.7215 L 271.76284 1357.0421 L 269.59188 1353.2015 L 267.69538 1349.2185 L 266.0826 1345.1126 L 264.76143 1340.9039 L 263.73837 1336.6131 L 263.0185 1332.2614 L 262.60532 1327.87 L 262.50085 1323.4605 L 262.7056 1319.0545 L 263.21854 1314.6737 L 264.0372 1310.3396 L 265.15757 1306.0734 L 266.57408 1301.8961 L 268.27987 1297.8283 L 270.26648 1293.8897 L 272.5242 1290.0999 L 275.042 1286.4773 L 277.8074 1283.0398 L 280.80694 1279.8042 L 284.02586 1276.7865 L 287.44833 1274.0014 L 291.05756 1271.4626 L 294.83587 1269.1826 L 298.7647 1267.1725 L 302.82476 1265.4423 L 306.9961 1264.0003 L 311.2583 1262.8538 L 315.59037 1262.0083 L 319.97112 1261.468 L 324.379 1261.2354 L 328.79238 1261.3119 L 333.18962 1261.6969 L 337.5491 1262.3886 L 341.84946 1263.3837 L 346.06957 1264.6771 L 350.18875 1266.2627 L 354.1867 1268.1325 L 358.0439 1270.2774 L 361.74136 1272.6869 L 365.26094 1275.3492 L 368.58537 1278.2511 L 371.6983 1281.3785 L 374.5845 1284.716 L 377.2298 1288.2472 L 379.62117 1291.9549 L 381.7469 1295.8206 L 383.5966 1299.8256 L 385.1611 1303.9502 L 386.4328 1308.174 L 387.40542 1312.4764 L 394.45063 1311.1442 L 381.19936 1328.0748 L 366.2698 1316.4732 L 373.315 1315.141 L 372.5638 1311.8178 L 371.58155 1308.5554 L 370.37315 1305.3697 L 368.9445 1302.2762 L 367.3026 1299.2904 L 365.4555 1296.4267 L 363.41236 1293.6992 L 361.1831 1291.1214 L 358.7787 1288.7058 L 356.21097 1286.4644 L 353.4925 1284.4081 L 350.63665 1282.547 L 347.65743 1280.8903 L 344.56944 1279.4461 L 341.38787 1278.2215 L 338.12833 1277.2224 L 334.8068 1276.4539 L 331.4396 1275.9196 L 328.04322 1275.6222 L 324.6344 1275.5632 L 321.22983 1275.7428 L 317.8462 1276.1601 L 314.50017 1276.8132 L 311.20812 1277.6988 L 307.98625 1278.8125 L 304.8503 1280.1489 L 301.81577 1281.7015 L 298.89745 1283.4625 L 296.1097 1285.4234 L 293.46626 1287.5746 L 290.98004 1289.9054 L 288.66325 1292.4045 L 286.52727 1295.0596 L 284.5826 1297.8576 L 282.83876 1300.7849 L 281.3043 1303.827 L 279.9868 1306.9689 L 278.89268 1310.1954 L 278.02733 1313.4905 L 277.395 1316.8381 L 276.99882 1320.2218 L 276.84068 1323.6249 L 276.92136 1327.0307 L 277.24054 1330.4225 L 277.79652 1333.7837 L 278.5867 1337.0979 L 279.60715 1340.3486 L 280.85286 1343.52 L 282.3177 1346.5964 L 283.99452 1349.5628 L 285.87505 1352.4047 L 287.95008 1355.108 L 290.20942 1357.6596 L 292.642 1360.0468 L 295.23584 1362.258 L 297.97825 1364.2823 L 300.85573 1366.1098 L 303.8542 1367.7314 L 306.9589 1369.1394 L 310.15462 1370.3267 L 312.64972 1371.086 Z" fill="#cbcbcb"/>
+          <path d="M 305.63213 1383.925 L 301.49466 1382.3878 L 297.47503 1380.565 L 293.59295 1378.4654 L 289.86748 1376.0993 L 286.3169 1373.4785 L 282.95868 1370.6157 L 279.80924 1367.525 L 276.8841 1364.2215 L 274.19755 1360.7215 L 271.76284 1357.0421 L 269.59188 1353.2015 L 267.69538 1349.2185 L 266.0826 1345.1126 L 264.76143 1340.9039 L 263.73837 1336.6131 L 263.0185 1332.2614 L 262.60532 1327.87 L 262.50085 1323.4605 L 262.7056 1319.0545 L 263.21854 1314.6737 L 264.0372 1310.3396 L 265.15757 1306.0734 L 266.57408 1301.8961 L 268.27987 1297.8283 L 270.26648 1293.8897 L 272.5242 1290.0999 L 275.042 1286.4773 L 277.8074 1283.0398 L 280.80694 1279.8042 L 284.02586 1276.7865 L 287.44833 1274.0014 L 291.05756 1271.4626 L 294.83587 1269.1826 L 298.7647 1267.1725 L 302.82476 1265.4423 L 306.9961 1264.0003 L 311.2583 1262.8538 L 315.59037 1262.0083 L 319.97112 1261.468 L 324.379 1261.2354 L 328.79238 1261.3119 L 333.18962 1261.6969 L 337.5491 1262.3886 L 341.84946 1263.3837 L 346.06957 1264.6771 L 350.18875 1266.2627 L 354.1867 1268.1325 L 358.0439 1270.2774 L 361.74136 1272.6869 L 365.26094 1275.3492 L 368.58537 1278.2511 L 371.6983 1281.3785 L 374.5845 1284.716 L 377.2298 1288.2472 L 379.62117 1291.9549 L 381.7469 1295.8206 L 383.5966 1299.8256 L 385.1611 1303.9502 L 386.4328 1308.174 L 387.40542 1312.4764 L 394.45063 1311.1442 L 381.19936 1328.0748 L 366.2698 1316.4732 L 373.315 1315.141 L 372.5638 1311.8178 L 371.58155 1308.5554 L 370.37315 1305.3697 L 368.9445 1302.2762 L 367.3026 1299.2904 L 365.4555 1296.4267 L 363.41236 1293.6992 L 361.1831 1291.1214 L 358.7787 1288.7058 L 356.21097 1286.4644 L 353.4925 1284.4081 L 350.63665 1282.547 L 347.65743 1280.8903 L 344.56944 1279.4461 L 341.38787 1278.2215 L 338.12833 1277.2224 L 334.8068 1276.4539 L 331.4396 1275.9196 L 328.04322 1275.6222 L 324.6344 1275.5632 L 321.22983 1275.7428 L 317.8462 1276.1601 L 314.50017 1276.8132 L 311.20812 1277.6988 L 307.98625 1278.8125 L 304.8503 1280.1489 L 301.81577 1281.7015 L 298.89745 1283.4625 L 296.1097 1285.4234 L 293.46626 1287.5746 L 290.98004 1289.9054 L 288.66325 1292.4045 L 286.52727 1295.0596 L 284.5826 1297.8576 L 282.83876 1300.7849 L 281.3043 1303.827 L 279.9868 1306.9689 L 278.89268 1310.1954 L 278.02733 1313.4905 L 277.395 1316.8381 L 276.99882 1320.2218 L 276.84068 1323.6249 L 276.92136 1327.0307 L 277.24054 1330.4225 L 277.79652 1333.7837 L 278.5867 1337.0979 L 279.60715 1340.3486 L 280.85286 1343.52 L 282.3177 1346.5964 L 283.99452 1349.5628 L 285.87505 1352.4047 L 287.95008 1355.108 L 290.20942 1357.6596 L 292.642 1360.0468 L 295.23584 1362.258 L 297.97825 1364.2823 L 300.85573 1366.1098 L 303.8542 1367.7314 L 306.9589 1369.1394 L 310.15462 1370.3267 L 312.64972 1371.086 Z" stroke="#cfd5e6" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_144">
+          <desc>From 0.0º
+To 360.0º</desc>
+          <path d="M 386.42178 1340.0059 L 385.16873 1344.2646 L 383.62057 1348.4252 L 381.7849 1352.4671 L 379.67076 1356.3706 L 377.28848 1360.1165 L 374.64977 1363.6864 L 371.76757 1367.0628 L 368.65606 1370.2291 L 365.3305 1373.1698 L 361.8072 1375.8704 L 358.10348 1378.3177 L 354.23747 1380.4997 L 350.2282 1382.4056 L 346.0953 1384.0261 L 341.85908 1385.3533 L 337.54034 1386.3806 L 333.1603 1387.103 L 328.7404 1387.517 L 324.30234 1387.6205 L 319.86798 1387.413 L 315.45897 1386.8955 L 311.09705 1386.0706 L 306.80358 1384.9423 L 302.59967 1383.5162 L 298.5059 1381.7992 L 294.54244 1379.7998 L 290.72863 1377.5278 L 287.0833 1374.9943 L 283.62427 1372.2118 L 280.3686 1369.194 L 277.33216 1365.9556 L 274.52994 1362.5126 L 271.97565 1358.8818 L 269.68184 1355.081 L 267.6598 1351.129 L 265.9194 1347.0452 L 264.46922 1342.8495 L 263.31635 1338.5625 L 262.46647 1334.2054 L 261.92375 1329.7994 L 261.69085 1325.3662 L 261.76893 1320.9277 L 262.15756 1316.5054 L 262.85488 1312.1213 L 263.85746 1307.7967 L 265.16035 1303.553 L 266.75717 1299.4108 L 268.6401 1295.3907 L 270.79988 1291.5122 L 273.2259 1287.7945 L 275.9063 1284.2558 L 278.82786 1280.9134 L 281.97628 1277.7838 L 285.33608 1274.8823 L 288.8908 1272.2232 L 292.62297 1269.8195 L 296.5143 1267.683 L 300.54565 1265.8242 L 304.69722 1264.2522 L 308.9487 1262.9748 L 307.11683 1256 L 325.0452 1268.1075 L 314.44443 1283.8992 L 312.61255 1276.9244 L 309.32877 1277.911 L 306.12215 1279.1252 L 303.0084 1280.5609 L 300.00278 1282.2111 L 297.1201 1284.0677 L 294.37452 1286.1216 L 291.77943 1288.3626 L 289.34764 1290.7799 L 287.09106 1293.3615 L 285.0208 1296.0947 L 283.14697 1298.9662 L 281.4788 1301.9619 L 280.02444 1305.067 L 278.7911 1308.2663 L 277.78474 1311.5441 L 277.01037 1314.8844 L 276.4718 1318.2706 L 276.1716 1321.6863 L 276.1113 1325.1146 L 276.2912 1328.5387 L 276.71037 1331.9417 L 277.3668 1335.3071 L 278.25726 1338.6183 L 279.37736 1341.859 L 280.7216 1345.0133 L 282.2834 1348.0658 L 284.05512 1351.0014 L 286.02803 1353.8058 L 288.1924 1356.4652 L 290.5377 1358.9664 L 293.05233 1361.2974 L 295.724 1363.4465 L 298.53965 1365.4033 L 301.4853 1367.1582 L 304.5467 1368.7025 L 307.70865 1370.0287 L 310.95568 1371.1302 L 314.2719 1372.0017 L 317.641 1372.6388 L 321.04638 1373.0385 L 324.47145 1373.1988 L 327.89933 1373.1189 L 331.31318 1372.7991 L 334.69626 1372.2411 L 338.03198 1371.4477 L 341.30397 1370.4226 L 344.49616 1369.1709 L 347.59288 1367.6988 L 350.5789 1366.0134 L 353.4396 1364.1232 L 356.16094 1362.0373 L 358.7296 1359.766 L 361.13286 1357.3203 L 363.35897 1354.7125 L 365.3971 1351.9551 L 367.23713 1349.0619 L 368.87006 1346.0469 L 370.2879 1342.9249 L 371.4837 1339.7114 L 372.4515 1336.422 L 373.03886 1333.8655 Z" fill="#009a4c"/>
+          <path d="M 386.42178 1340.0059 L 385.16873 1344.2646 L 383.62057 1348.4252 L 381.7849 1352.4671 L 379.67076 1356.3706 L 377.28848 1360.1165 L 374.64977 1363.6864 L 371.76757 1367.0628 L 368.65606 1370.2291 L 365.3305 1373.1698 L 361.8072 1375.8704 L 358.10348 1378.3177 L 354.23747 1380.4997 L 350.2282 1382.4056 L 346.0953 1384.0261 L 341.85908 1385.3533 L 337.54034 1386.3806 L 333.1603 1387.103 L 328.7404 1387.517 L 324.30234 1387.6205 L 319.86798 1387.413 L 315.45897 1386.8955 L 311.09705 1386.0706 L 306.80358 1384.9423 L 302.59967 1383.5162 L 298.5059 1381.7992 L 294.54244 1379.7998 L 290.72863 1377.5278 L 287.0833 1374.9943 L 283.62427 1372.2118 L 280.3686 1369.194 L 277.33216 1365.9556 L 274.52994 1362.5126 L 271.97565 1358.8818 L 269.68184 1355.081 L 267.6598 1351.129 L 265.9194 1347.0452 L 264.46922 1342.8495 L 263.31635 1338.5625 L 262.46647 1334.2054 L 261.92375 1329.7994 L 261.69085 1325.3662 L 261.76893 1320.9277 L 262.15756 1316.5054 L 262.85488 1312.1213 L 263.85746 1307.7967 L 265.16035 1303.553 L 266.75717 1299.4108 L 268.6401 1295.3907 L 270.79988 1291.5122 L 273.2259 1287.7945 L 275.9063 1284.2558 L 278.82786 1280.9134 L 281.97628 1277.7838 L 285.33608 1274.8823 L 288.8908 1272.2232 L 292.62297 1269.8195 L 296.5143 1267.683 L 300.54565 1265.8242 L 304.69722 1264.2522 L 308.9487 1262.9748 L 307.11683 1256 L 325.0452 1268.1075 L 314.44443 1283.8992 L 312.61255 1276.9244 L 309.32877 1277.911 L 306.12215 1279.1252 L 303.0084 1280.5609 L 300.00278 1282.2111 L 297.1201 1284.0677 L 294.37452 1286.1216 L 291.77943 1288.3626 L 289.34764 1290.7799 L 287.09106 1293.3615 L 285.0208 1296.0947 L 283.14697 1298.9662 L 281.4788 1301.9619 L 280.02444 1305.067 L 278.7911 1308.2663 L 277.78474 1311.5441 L 277.01037 1314.8844 L 276.4718 1318.2706 L 276.1716 1321.6863 L 276.1113 1325.1146 L 276.2912 1328.5387 L 276.71037 1331.9417 L 277.3668 1335.3071 L 278.25726 1338.6183 L 279.37736 1341.859 L 280.7216 1345.0133 L 282.2834 1348.0658 L 284.05512 1351.0014 L 286.02803 1353.8058 L 288.1924 1356.4652 L 290.5377 1358.9664 L 293.05233 1361.2974 L 295.724 1363.4465 L 298.53965 1365.4033 L 301.4853 1367.1582 L 304.5467 1368.7025 L 307.70865 1370.0287 L 310.95568 1371.1302 L 314.2719 1372.0017 L 317.641 1372.6388 L 321.04638 1373.0385 L 324.47145 1373.1988 L 327.89933 1373.1189 L 331.31318 1372.7991 L 334.69626 1372.2411 L 338.03198 1371.4477 L 341.30397 1370.4226 L 344.49616 1369.1709 L 347.59288 1367.6988 L 350.5789 1366.0134 L 353.4396 1364.1232 L 356.16094 1362.0373 L 358.7296 1359.766 L 361.13286 1357.3203 L 363.35897 1354.7125 L 365.3971 1351.9551 L 367.23713 1349.0619 L 368.87006 1346.0469 L 370.2879 1342.9249 L 371.4837 1339.7114 L 372.4515 1336.422 L 373.03886 1333.8655 Z" stroke="#96a8d4" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_142">
+          <text transform="translate(289.12897 1291.1163)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="18" font-weight="400" fill="black" x="17.370025" y="17">See - </tspan>
+            <tspan font-family="Helvetica Neue" font-size="18" font-weight="400" fill="black" x="11.025025" y="38.504">Think - </tspan>
+            <tspan font-family="Helvetica Neue" font-size="18" font-weight="400" fill="black" x="25.371025" y="60.007996">Act</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_151">
+        <g id="Graphic_149">
+          <text transform="translate(29.25 1108)" fill="#009a4c">
+            <tspan font-family="Helvetica Neue" font-size="24" font-weight="400" fill="#009a4c" x="0" y="23">Reasoning: Model-Based</tspan>
+          </text>
+        </g>
+        <g id="Line_150">
+          <path d="M 22 1153.3 L 22 1146.3 C 22 1141.8817 25.581722 1138.3 30 1138.3 L 613 1138.3 C 617.4183 1138.3 621 1141.8817 621 1146.3 L 621 1153.3" stroke="#009a4c" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+        </g>
+      </g>
+      <g id="Graphic_460"/>
+    </g>
+  </g>
+</svg>

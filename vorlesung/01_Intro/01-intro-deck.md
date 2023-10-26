@@ -7,15 +7,13 @@ feedback:
   deck-id:  'mschilli-arob_01'
 ---
 
-# Automation: Robots for Specific Purposes
+# Automatisierung: Roboter für spezifische Anwendungen
 
 ![](../data/01/cs391r_automation.png){height=450px}
 
 Structured Environments -- Fixed Set of Tasks -- Pre-programmed Procedures
 
-## {.bottom .footer}
 
-[@cs391R2020]
 
 # General-Purpose Autonomous Robots
 
@@ -23,9 +21,9 @@ Structured Environments -- Fixed Set of Tasks -- Pre-programmed Procedures
 
 Unstructured Environments -- Ever-changing Tasks -- Human Involvement
 
-## {.bottom .footer}
 
-[@cs391R2020]
+
+
 
 # Robotics today
 
@@ -49,7 +47,7 @@ We are seeing more and more robots and intelligent systems coming into our lives
 
 <!--![](../data/01/TRI_Robotics_Overview.mp4){height=480px .controls .autoplay}-->
 
-## {.bottom .footer}
+
 
 [Toyota Robotics Institute 2023](https://youtu.be/tPmxGhddcVY)
 
@@ -57,9 +55,9 @@ We are seeing more and more robots and intelligent systems coming into our lives
 
 ![](../data/01/cs391r_towardsAutonomy.png){height=480px}
 
-## {.bottom .footer}
 
-[@cs391R2020]
+
+
 
 # For whom is this -- Expected background knowledge
 
@@ -100,7 +98,7 @@ Started with the industrial revolution (first in England): 1769 the Steam engine
 
 ![](../data/01/industry-4.0-revolution.png){height=400px}
 
-## {.bottom .footer}
+
 
 Figure from https://www.calsoft.com/what-is-industry-4-0/
 
@@ -118,7 +116,7 @@ Invented by Joseph-Marie Jacquard:
 
 ![](../data/01/ford_automation.mp4){width=640px .controls .autoplay}
 
-## {.bottom .footer}
+
 
 Video: Henry Ford Museum
 
@@ -160,7 +158,7 @@ Control is based on: sensor technology, a responsive feedback loop, and logical 
 
 ![](../data/01/walter_elmer_elsie.mp4){width=640px .controls .autoplay}
 
-## {.bottom .footer}
+
 
 Video: Dr. F. W. and J. Merlyn Clutterbuck/National Museum of American History.
 
@@ -178,7 +176,7 @@ Introduced into a General Motors plant:
 
 ![](../data/01/robotics_timeline_tortus_unimate.jpg){width=640px}
 
-## {.bottom .footer}
+
 
 Photo: Kawasaki
 
@@ -197,7 +195,7 @@ First Small, Electric-Powered Six-Axis Robot, designed by Victor Scheinman.
 
 ![](../data/01/robotics_timeline_stanfordarm.jpg){height=480px}
 
-## {.bottom .footer}
+
 
 Photo: Les Earnest/Stanford Robotics Group
 
@@ -214,7 +212,7 @@ Photo: Les Earnest/Stanford Robotics Group
 
 ![](../data/01/shakey.mp4){width=640px .controls .autoplay}
 
-## {.bottom .footer}
+
 
 Video: The Stanford Library
 
@@ -231,7 +229,7 @@ The “Selective Compliance Assembly Robot Arm”
 
 ![](../data/01/robotics_timeline_tortus_scara.jpg){height=480px}
 
-## {.bottom .footer}
+
 
 Photo: Yamanashi University in Japan.
 
@@ -251,7 +249,7 @@ With Kismet CynthiaBreazeal demonstrated the influence of a robot as a personali
 
 ![](../data/01/kismet.mp4){height=480px .controls .autoplay .loop}
 
-## {.bottom .footer}
+
 
 Video: Sam Ogden/Science Source.
 
@@ -284,7 +282,7 @@ Bought by Amazon in 2012
 
 ![](../data/01/gettyimages-461841920.jpg){height=480px}
 
-## {.bottom .footer}
+
 
 Photo: Getty Images.
 
@@ -372,7 +370,7 @@ Characterized by uncertainty, noise, incomplete knowledge and change.
 
 Cognitive robots have to be flexible and adaptable.
 
-## {.bottom .footer}
+
 
 [@vernon_course]
 
@@ -416,7 +414,7 @@ Scene Representation in Autonomous Driving
 
 ![](../data/01/autonomy_multiple_levels.svg){width=600px}
 
-## {.bottom .footer}
+
 
 [@schilling2016towards]
 
@@ -525,7 +523,7 @@ What do you think?
 * May pose ethical and legal challenges,
 * May interact with humans ...
 
-## {.bottom .footer}
+
 
 [@chatgpt_autonomy]
 
@@ -533,7 +531,7 @@ What do you think?
 
 > Goals do not play a direct role in ChatGPT's functioning, as it is primarily designed to generate responses to user inputs based on patterns and correlations in its training data. However, ChatGPT's responses may be influenced by the goals or intentions of the users who interact with it. For example, a user might ask ChatGPT to generate a response that satisfies a specific information need or helps them complete a particular task. In that sense, the user's goal indirectly influences the output of ChatGPT.
 
-## {.bottom .footer}
+
 
 [@chatgpt_autonomy]
 
@@ -543,7 +541,7 @@ What do you think?
 
 <!--![](../data/01/RoboCup 1997-2011 HD.mp4){height=480px .controls .autoplay}-->
 
-## {.bottom .footer}
+
 
 [Stone, Peter and Veloso, Manuela; IROS 2012.](https://www.youtube.com/watch?v=cwteFOCBalg)
 
@@ -551,7 +549,7 @@ What do you think?
 
 ![](../data/01/A Compilation of Robots Falling Down at the DARPA Robotics Challenge.mp4){height=480px .controls .autoplay}
 
-## {.bottom .footer}
+
 
 [DARPA Challenge Falling Robots](https://www.youtube.com/watch?v=g0TaYhjpOfo) und für einen Überblick über die *Successes* von 2015 siehe [https://www.youtube.com/watch?v=8P9geWwi9e0](https://www.youtube.com/watch?v=8P9geWwi9e0)
 
@@ -559,7 +557,7 @@ What do you think?
 
 ![](../data/01/Testing Robustness.mp4){height=480px .controls .autoplay}
 
-## {.bottom .footer}
+
 
 [Boston Dynamics, Testing Robustness (2017)](https://www.youtube.com/watch?v=aFuA50H9uek)
 
@@ -639,9 +637,9 @@ As a differentiation of robots
 
 :::
 
-## {.bottom .footer}
 
-[@cs391R2020]
+
+
 
 # Appearance of Agent
 
@@ -672,9 +670,9 @@ Which action to take, how to move around, manipulate objects, use tools?
 
 ![](../data/01/cs391R_decisionmaking.jpg){height=240px}
 
-## {.bottom .footer}
 
-[@cs391R2020]
+
+
 
 # Key Building Blocks for General-Purpose Robot Autonomy {.columns}
 
@@ -696,9 +694,9 @@ How do body and control interact?
 
 ![](../data/01/cs391R_real.jpg){height=240px}
 
-## {.bottom .footer}
 
-[@cs391R2020]
+
+
 
 # Overview PRA
 
@@ -777,7 +775,7 @@ uncertainty?
 
 ![](../data/01/CORO_01-25_feynman.jpg){width=600px}
 
-## {.bottom .footer}
+
 
 Richard Feynman from Caltech Archives
 

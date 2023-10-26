@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="32 2139.8084 694 365.29385" width="694" height="365.29385">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="24" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica Neue" font-size="24" panose-1="2 0 8 3 0 0 0 9 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="975.0061" descent="-216.99524" font-weight="700">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue-Bold"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.19.4\n2023-05-22 18:24:39 +0000</metadata>
+  <g id="Canvas_1" fill-opacity="1" stroke-opacity="1" fill="none" stroke-dasharray="none" stroke="none">
+    <title>Canvas 1</title>
+    <rect fill="white" x="32" y="2139.8084" width="694" height="365.29385"/>
+    <g id="Canvas_1_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_499">
+        <text transform="translate(37 2500.1022) rotate(-90)" fill="#f18e2a">
+          <tspan font-family="Helvetica Neue" font-size="24" font-weight="400" fill="#f18e2a" x="0" y="23">Perception</tspan>
+        </text>
+      </g>
+      <g id="Graphic_498">
+        <path d="M 68 2496.664 L 68 2314.9088 C 68 2314.2492 68.16313 2313.5998 68.47487 2313.0185 L 114.47487 2227.2377 C 115.51888 2225.2908 117.94348 2224.559 119.89035 2225.603 C 120.58431 2225.975 121.153 2226.5437 121.52513 2227.2377 L 167.52513 2313.0185 C 167.83687 2313.5998 168 2314.2492 168 2314.9088 L 168 2496.664 C 168 2498.873 166.20914 2500.664 164 2500.664 L 72 2500.664 C 69.79086 2500.664 68 2498.873 68 2496.664 Z" stroke="#f18e2a" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      </g>
+      <g id="Graphic_500">
+        <text transform="translate(89.30384 2488.7216) rotate(-90)" fill="#f18e2a">
+          <tspan font-family="Helvetica Neue" font-size="24" font-weight="700" fill="#f18e2a" x="37.848824" y="23">Information </tspan>
+          <tspan font-family="Helvetica Neue" font-size="24" font-weight="700" fill="#f18e2a" x="45.372824" y="51.69617">Extraction</tspan>
+        </text>
+      </g>
+      <g id="Graphic_514"/>
+    </g>
+  </g>
+</svg>

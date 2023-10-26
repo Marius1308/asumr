@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="32 2139.8084 694 365.29385" width="694" height="365.29385">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="24" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 8 3 0 0 0 9 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="975.0061" descent="-216.99524" font-weight="700">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue-Bold"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -2 4 4" markerWidth="4" markerHeight="4" color="#f18e2a">
+      <g>
+        <path d="M 1.92 0 L 0 -.72 L 0 .72 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-3 -2 4 4" markerWidth="4" markerHeight="4" color="#f18e2a">
+      <g>
+        <path d="M -1.92 0 L 0 .72 L 0 -.72 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Helvetica Neue" font-size="24" panose-1="2 0 8 3 0 0 0 9 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="975.0061" descent="-216.99524" font-weight="700">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue-Bold"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 11 6 4 2 2 2 2 2 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="975.0061" descent="-216.99524" font-weight="500">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue-Medium"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 11 6 4 2 2 2 2 2 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="975.0061" descent="-216.99524" font-style="italic" font-weight="500">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue-MediumItalic"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.19.4\n2023-05-22 18:25:26 +0000</metadata>
+  <g id="Canvas_1" fill-opacity="1" stroke-opacity="1" fill="none" stroke-dasharray="none" stroke="none">
+    <title>Canvas 1</title>
+    <rect fill="white" x="32" y="2139.8084" width="694" height="365.29385"/>
+    <g id="Canvas_1_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_514"/>
+      <g id="Graphic_499">
+        <text transform="translate(37 2500.1022) rotate(-90)" fill="#f18e2a">
+          <tspan font-family="Helvetica Neue" font-size="24" font-weight="400" fill="#f18e2a" x="0" y="23">Perception</tspan>
+        </text>
+      </g>
+      <g id="Graphic_498">
+        <path d="M 68 2496.664 L 68 2314.9088 C 68 2314.2492 68.16313 2313.5998 68.47487 2313.0185 L 114.47487 2227.2377 C 115.51888 2225.2908 117.94348 2224.559 119.89035 2225.603 C 120.58431 2225.975 121.153 2226.5437 121.52513 2227.2377 L 167.52513 2313.0185 C 167.83687 2313.5998 168 2314.2492 168 2314.9088 L 168 2496.664 C 168 2498.873 166.20914 2500.664 164 2500.664 L 72 2500.664 C 69.79086 2500.664 68 2498.873 68 2496.664 Z" stroke="#f18e2a" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      </g>
+      <g id="Graphic_497">
+        <rect x="336" y="2460" width="240" height="40" fill="#feaf6c"/>
+        <text transform="translate(341 2461.044)" fill="white">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="700" fill="white" x="77.968" y="16">Raw Data</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="white" x="4" y="34.46411">Vision, Laser, Sound, Touch, …</tspan>
+        </text>
+      </g>
+      <g id="Line_495">
+        <line x1="456" y1="2446.22" x2="456" y2="2433.78" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="#f18e2a" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      </g>
+      <g id="Graphic_500">
+        <text transform="translate(89.30384 2488.7216) rotate(-90)" fill="#f18e2a">
+          <tspan font-family="Helvetica Neue" font-size="24" font-weight="700" fill="#f18e2a" x="37.848824" y="23">Information </tspan>
+          <tspan font-family="Helvetica Neue" font-size="24" font-weight="700" fill="#f18e2a" x="45.372824" y="51.69617">Extraction</tspan>
+        </text>
+      </g>
+      <g id="Graphic_501">
+        <rect x="336" y="2380" width="240" height="40" fill="#f18e2a"/>
+        <text transform="translate(341 2381.044)" fill="white">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="700" fill="white" x="81.656" y="16">Features</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="white" x="5.8" y="34.46411">Corner, Line, Texture, Color, …</tspan>
+        </text>
+      </g>
+      <g id="Graphic_502">
+        <rect x="336" y="2300" width="240" height="40" fill="#99df8a"/>
+        <text transform="translate(341 2301.044)" fill="white">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="700" fill="white" x="85.368" y="16">Objects</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="white" x="51.736" y="34.46411">Doors, People, …</tspan>
+        </text>
+      </g>
+      <g id="Line_504">
+        <line x1="456" y1="2366.22" x2="456" y2="2353.78" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="#f18e2a" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      </g>
+      <g id="Graphic_509">
+        <text transform="translate(188.48032 2423.213)" fill="#f28e2c">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="#f28e2c" x="0" y="16">Models:</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="#f28e2c" x="0" y="35.46411">- imposed &amp; adapted</tspan>
+        </text>
+      </g>
+      <g id="Graphic_510">
+        <text transform="translate(186 2340.536)" fill="#f28e2c">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="#f28e2c" x="0" y="16">Models/ Semantics</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="#f28e2c" x="0" y="35.46411">+ learned</tspan>
+        </text>
+      </g>
+      <g id="Graphic_511">
+        <text transform="translate(186 2248.1267)" fill="#f28e2c">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="#f28e2c" x="0" y="16">Relationships of </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="500" fill="#f28e2c" x="0" y="35.46411">Objects: </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-style="italic" font-weight="500" fill="#f28e2c" y="35.46411">Spatial, </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-style="italic" font-weight="500" fill="#f28e2c" x="0" y="54.92822">temporal, semantic</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
